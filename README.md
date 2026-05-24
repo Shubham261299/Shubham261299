@@ -42,7 +42,7 @@
 ## 🏢 Work Experience (Highlights)
 
 **Analyst @ Searce** (Dec 2023 – Present)  
-- Built 5+ Python automation frameworks handling 3,000+ transactions/month → 80% manual effort cut.  
+- Built 10+ Python automation frameworks handling 3,000+ transactions/month → 80% manual effort cut.  
 - Engineered RAG‑powered SOP assistant → 30‑second lookup vs 15 minutes.  
 - Integrated LLM decisioning into rule‑based engines → exception queue **↓40%**.  
 - Owned full SDLC: req gathering, PDD/SDD, UAT, deployment, L2/L3 support.
