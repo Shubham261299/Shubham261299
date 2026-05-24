@@ -60,7 +60,7 @@
 
 ## 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:shubham@example.com) • [Portfolio (coming soon)](#)
+[LinkedIn](www.linkedin.com/in/shubham-jamdar-2571271b3) • [Email](mailto:shubhamjamdar2612@gmail.com) 
 
 ---
 
