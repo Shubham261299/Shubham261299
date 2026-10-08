@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="40" viewBox="0 0 190 40" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="188" height="38" rx="10" fill="url(#g)"/><text x="95.0" y="25" font-size="13" fill="#fff" font-weight="700" text-anchor="middle">Explore my work  →</text>
+</svg>
