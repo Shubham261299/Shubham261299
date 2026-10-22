@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="assets/status.svg" width="100%" alt="Currently building Opspilot, an AI back office for small businesses (70%). System status: portfolio online, 7 projects, exploring agent evaluation and MCP security.">
+<img src="assets/status.svg" width="100%" alt="Currently building Opspilot, an AI back office for small businesses (week 6 of 7, public demo next). System status: portfolio online, 10 projects, latest build Agent Blackbox with a live recorded demo, exploring agent evaluation and MCP security.">
 
 </div>
 
@@ -35,11 +35,29 @@ I like starting from a messy export, an email thread or someone walking me throu
 <a href="https://github.com/Shubham261299/self-healing-invoice-automation"><img src="assets/card-05.svg" width="49%" alt="Self-Healing Invoice Automation"></a>
 <a href="https://github.com/Shubham261299/daybook"><img src="assets/card-06.svg" width="49%" alt="Daybook"></a>
 <a href="https://github.com/Shubham261299/sop-assistant"><img src="assets/card-07.svg" width="49%" alt="SOP Assistant"></a>
-<a href="https://shubham-ai-lab.vercel.app/"><img src="assets/card-catalogue.svg" width="49%" alt="See the full lab"></a>
+<a href="https://github.com/Shubham261299/decision-intelligence-lab"><img src="assets/card-08.svg" width="49%" alt="Decision Intelligence Lab"></a>
+<a href="https://github.com/Shubham261299/agent-blackbox"><img src="assets/card-09.svg" width="49%" alt="Agent Blackbox"></a>
+<a href="https://github.com/Shubham261299/the-last-witness"><img src="assets/card-10.svg" width="49%" alt="The Last Witness"></a>
+
+<a href="https://shubham-ai-lab.vercel.app/"><img src="assets/card-catalogue-wide.svg" width="98%" alt="See the full lab: architecture, engineering decisions and write-ups for every system"></a>
 
 </div>
 
 <sub>The Case-Routing Orchestrator and the Enterprise MCP Layer were built at my current employer, so their source is proprietary. Those repos document the architecture, the design decisions and the results.</sub>
+
+<br>
+
+<img src="assets/h-board.svg" width="100%" alt="Development status: where each system stands">
+
+<img src="assets/board.svg" width="100%" alt="Development status of all ten systems: two documentation-only employer projects, Opspilot in progress at week 6 of 7, The Last Witness a V1 prototype, and the rest open source.">
+
+<div align="center">
+
+<a href="https://shubham261299.github.io/agent-blackbox/"><img src="assets/btn-demo.svg" height="40" alt="Agent Blackbox: open the recorded demo"></a>
+
+<sub>No install needed: it replays real recorded runs of an AI agent, including a failure and two fixes.</sub>
+
+</div>
 
 <br>
 
