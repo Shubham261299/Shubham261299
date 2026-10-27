@@ -1,115 +1,47 @@
-<div align="center">
+<img src="assets/editorial/banner.webp" width="100%" alt="A builder’s desk: a work journal, agent flight recorder, approval tray and secure data gateway.">
 
-<img src="assets/banner.svg" width="100%" alt="Shubham AI Lab — I build AI systems that reason, use tools, and operate in real business workflows.">
+# Shubham Jamdar
 
-<br>
+### AI systems & automation
 
-<a href="https://shubham-ai-lab.vercel.app/"><img src="assets/btn-portfolio.svg" height="40" alt="Explore my work"></a>
-<a href="https://www.linkedin.com/in/shubham-jamdar-2571271b3"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-<a href="mailto:shubhamjamdar2612@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
+I build systems that turn messy business workflows into useful, reviewable actions.
 
-<br><br>
+I like starting with a messy export, an email thread, or someone walking me through their process—then working out what should be built and shipping it.
 
-<img src="assets/metrics.svg" width="100%" alt="2.8+ years building production automation and AI · 10+ automation frameworks shipped · 3,000+ transactions a month · ~80% manual effort reduced · ~95% invoice extraction accuracy · ~40% less exception-handling effort with LLM decisioning">
+**[Explore my website ↗](https://shubham-ai-lab.vercel.app/)** · **[Try the recorded demo ↗](https://shubham261299.github.io/agent-blackbox/#/)** · [LinkedIn](https://www.linkedin.com/in/shubham-jamdar-2571271b3) · [Email](mailto:shubhamjamdar2612@gmail.com)
 
-<br><br>
+## Selected builds
 
-<img src="assets/status.svg" width="100%" alt="Currently building Opspilot, an AI back office for small businesses (week 6 of 7, public demo next). System status: portfolio online, 10 projects, latest build Agent Blackbox with a live recorded demo, exploring agent evaluation and MCP security.">
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Shubham261299/agent-blackbox"><img src="assets/editorial/agent-blackbox.webp" alt="Agent Blackbox: a flight recorder and trace inspection lens." width="100%"></a><h3>Agent Blackbox</h3><p>Your agent failed. Find out why.</p><p>Inspect recorded runs, locate failures, and compare whether a fix helped.</p><p><strong>Recorded demo available</strong></p><a href="https://shubham261299.github.io/agent-blackbox/#/">Explore demo ↗</a> · <a href="https://github.com/Shubham261299/agent-blackbox">Code</a></td>
+<td width="33%" valign="top"><a href="https://github.com/Shubham261299/opspilot"><img src="assets/editorial/opspilot.webp" alt="OpsPilot: orders and invoices arranged for owner approval." width="100%"></a><h3>OpsPilot</h3><p>From messy orders to actions you approve.</p><p>Chat exports, stock sheets and invoices become proposals the owner reviews.</p><p><strong>v0.4 · Local app</strong></p><a href="https://github.com/Shubham261299/opspilot#run-it-locally">Run locally ↗</a> · <a href="https://shubham-ai-lab.vercel.app/work/opspilot">Case study</a></td>
+<td width="33%" valign="top"><a href="https://github.com/Shubham261299/enterprise-mcp-layer"><img src="assets/editorial/mcp-layer.webp" alt="Enterprise MCP: a permission gateway between business data systems." width="100%"></a><h3>Enterprise MCP</h3><p>Useful access. Explicit boundaries.</p><p>Controlled agent access to business systems, with permissions and audit logs.</p><p><strong>Employer work · Documentation only</strong></p><a href="https://github.com/Shubham261299/enterprise-mcp-layer">Read the architecture ↗</a></td>
+</tr>
+</table>
 
-</div>
+**[Explore all projects and engineering walkthroughs →](https://shubham-ai-lab.vercel.app/work)**
 
-> **“Turning LLMs, tools and data into real-world AI systems.”**
+## How I build
 
-I like starting from a messy export, an email thread or someone walking me through their process, then working out what should be built and shipping it. I build day to day with **Claude Code** and **Cursor**.
+| Start with real work | Keep people in control | Make outcomes inspectable |
+| --- | --- | --- |
+| Understand the documents, exceptions and decisions behind a workflow. | Use explicit approval gates and clear boundaries around tool access. | Keep traces, check outputs and report regressions alongside improvements. |
 
-<br>
+**My usual tools:** Python · FastAPI · LangGraph · MCP · PostgreSQL · React · Ollama · Playwright · Docker
 
-<img src="assets/h-systems.svg" width="100%" alt="Featured systems — Real systems. Real impact.">
+## The path here
 
-<div align="center">
+**Automation Engineer · IDeaS Revenue Solutions** · Jul 2026–present  
+Building agent workflows and controlled enterprise integrations: case routing with human review, internally deployed Salesforce and Smartsheet MCP servers, and report automation. Employer repositories share architecture and decisions; proprietary source is not included.
 
-<a href="https://github.com/Shubham261299/agentic-case-routing-orchestrator"><img src="assets/card-01.svg" width="49%" alt="Agentic Case-Routing Orchestrator"></a>
-<a href="https://github.com/Shubham261299/enterprise-mcp-layer"><img src="assets/card-02.svg" width="49%" alt="Enterprise MCP Layer"></a>
-<a href="https://github.com/Shubham261299/agentic-tool-orchestrator"><img src="assets/card-03.svg" width="49%" alt="Agentic Tool Orchestrator"></a>
-<a href="https://github.com/Shubham261299/opspilot"><img src="assets/card-04.svg" width="49%" alt="Opspilot"></a>
-<a href="https://github.com/Shubham261299/self-healing-invoice-automation"><img src="assets/card-05.svg" width="49%" alt="Self-Healing Invoice Automation"></a>
-<a href="https://github.com/Shubham261299/daybook"><img src="assets/card-06.svg" width="49%" alt="Daybook"></a>
-<a href="https://github.com/Shubham261299/sop-assistant"><img src="assets/card-07.svg" width="49%" alt="SOP Assistant"></a>
-<a href="https://github.com/Shubham261299/decision-intelligence-lab"><img src="assets/card-08.svg" width="49%" alt="Decision Intelligence Lab"></a>
-<a href="https://github.com/Shubham261299/agent-blackbox"><img src="assets/card-09.svg" width="49%" alt="Agent Blackbox"></a>
-<a href="https://github.com/Shubham261299/the-last-witness"><img src="assets/card-10.svg" width="49%" alt="The Last Witness"></a>
+**Analyst · Searce** · Dec 2023–Jul 2026  
+Built Python automation for logistics and accounts-payable workflows, invoice document processing, exception handling and SOP retrieval.
 
-<a href="https://shubham-ai-lab.vercel.app/"><img src="assets/card-catalogue-wide.svg" width="98%" alt="See the full lab: architecture, engineering decisions and write-ups for every system"></a>
+## Let’s build something useful
 
-</div>
+Based in Pune, India. Open to **AI Engineering, Agentic AI, AI Solutions and Forward Deployed Engineering** opportunities.
 
-<sub>The Case-Routing Orchestrator and the Enterprise MCP Layer were built at my current employer, so their source is proprietary. Those repos document the architecture, the design decisions and the results.</sub>
+Working on agents, business workflows, or making an AI system reliable enough to use? [Get in touch](mailto:shubhamjamdar2612@gmail.com).
 
-<br>
-
-<img src="assets/h-board.svg" width="100%" alt="Development status: where each system stands">
-
-<img src="assets/board.svg" width="100%" alt="Development status of all ten systems: two documentation-only employer projects, Opspilot in progress at week 6 of 7, The Last Witness a V1 prototype, and the rest open source.">
-
-<div align="center">
-
-<a href="https://shubham261299.github.io/agent-blackbox/"><img src="assets/btn-demo.svg" height="40" alt="Agent Blackbox: open the recorded demo"></a>
-
-<sub>No install needed: it replays real recorded runs of an AI agent, including a failure and two fixes.</sub>
-
-</div>
-
-<br>
-
-<img src="assets/h-philosophy.svg" width="100%" alt="Engineering philosophy">
-
-<img src="assets/principles.svg" width="100%" alt="Ground the model. Give agents tools. Keep humans in control. Make state durable. Measure the system.">
-
-<br>
-
-<img src="assets/h-toolbox.svg" width="100%" alt="Toolbox">
-
-<img src="assets/toolbox.svg" width="100%" alt="Agentic AI and LLMs: LangGraph, LangChain, MCP, human-in-the-loop. Models and retrieval: Claude, OpenAI, Gemini, Ollama, RAG, FAISS. Backend: Python, FastAPI, PostgreSQL, Docker. Automation: Playwright, Selenium, UiPath, OCR.">
-
-<br>
-
-<img src="assets/h-evolution.svg" width="100%" alt="Career evolution">
-
-<img src="assets/evolution.svg" width="100%" alt="2019 Data Science, 2023 Automation, 2024 Intelligent Automation, 2025 GenAI, 2026 Agentic AI, next AI Systems and Forward Deployed Engineering.">
-
-<br>
-
-### 💼 Experience
-
-**Automation Engineer · IDeaS Revenue Solutions** · *Jul 2026 – present*
-
-- Multi-agent case-routing orchestrator with a critic, bounded re-planning and a human approval gate
-- Salesforce and Smartsheet MCP servers, deployed internally, with per-agent permissions and audit logs
-- Salesforce → G3 report automation (Playwright, SQL Server, Outlook/VBA) and a local-LLM report pipeline
-
-**Analyst · Searce** · *Dec 2023 – Jul 2026*
-
-- 10+ Python automations for logistics and accounts-payable teams: 3,000+ transactions/month, ~80% less manual effort
-- Invoice document processing (OCR + carrier APIs): ~10 → ~2 minutes per invoice at ~95% accuracy
-- LLM decisions in exception handling (~40% less effort) and a RAG assistant for SOPs
-
-<br>
-
-<img src="assets/h-activity.svg" width="100%" alt="Building in public">
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham261299/Shubham261299/output/github-snake-dark.svg">
-  <img alt="Contribution graph with an animated snake" src="https://raw.githubusercontent.com/Shubham261299/Shubham261299/output/github-snake.svg" width="100%">
-</picture>
-</div>
-
-<br>
-
-<img src="assets/h-connect.svg" width="100%" alt="Let's build something impactful.">
-
-I'm open to **AI Engineering, Agentic AI, AI Solutions and Forward Deployed Engineer** roles. If you're working on AI agents, MCP, intelligent workflows or production LLM systems, I'd be happy to connect.
-
-<a href="https://shubham-ai-lab.vercel.app/"><img src="assets/btn-site.svg" height="40" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/shubham-jamdar-2571271b3"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-<a href="mailto:shubhamjamdar2612@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
+[Website](https://shubham-ai-lab.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shubham-jamdar-2571271b3) · [Email](mailto:shubhamjamdar2612@gmail.com)
